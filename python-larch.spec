@@ -1,11 +1,11 @@
 Summary:	Python B-tree library
 Name:		python-larch
-Version:	1.20121006
+Version:	1.20121216
 Release:	1
 License:	GPL v3
 Group:		Libraries/Python
 Source0:	http://code.liw.fi/debian/pool/main/p/python-larch/%{name}_%{version}.orig.tar.gz
-# Source0-md5:	ccaec706264c0227fdb396bc40cbda0d
+# Source0-md5:	d552bfadbdb94837673970b6ea45b9f1
 URL:		http://liw.fi/cliapp/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
